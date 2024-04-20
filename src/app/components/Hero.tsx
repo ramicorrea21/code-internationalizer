@@ -5,7 +5,7 @@ export default function Hero() {
                     Internationalize Your Code
                 </h1>
                 <h2 className="text-xl md:text-2xl font-semibold text-gray-500 mt-5">
-                    Easily translate your code's comments and strings into multiple languages.
+                    Easily translate your code comments and strings into multiple languages.
                 </h2>
                 <p className="text-md md:text-lg text-gray-600 mt-4">
                     Note: This tool uses GPT-3.5, so processing large amounts of code may lead to errors.
