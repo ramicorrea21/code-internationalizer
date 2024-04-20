@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "codelang translator",
-  description: "Translate your code language",
+  title: "Code Internationalizer",
+  description: "Easily translate your code's comments and strings into multiple languages.",
 };
 
 export default function RootLayout({
