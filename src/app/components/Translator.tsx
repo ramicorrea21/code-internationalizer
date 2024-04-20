@@ -58,7 +58,7 @@ export default function Translator() {
         }
 
         if (!/[{}();<></>]/.test(req.source_code)) {
-            setError('The text entered doesn\'t look like code');
+            setError('The text entered doesnt look like code');
             return;
         }
 
