@@ -1,6 +1,6 @@
 #### **Code Internationalizer 🌎**
 
-CodeLang Translator is a modern web application designed for developers who need to translate the non-code elements (like comments and strings) within their source code between different languages. This tool offers a clean and efficient user interface, leveraging the latest web technologies.
+Code internationalizer is a modern web application designed for developers who need to translate the non-code elements (like comments and strings) within their source code between different languages. This tool offers a clean and efficient user interface, leveraging the latest web technologies.
 
 ### **NOTE: This repo includes the frontend app, you can find the flask api in the repo: <a href='https://github.com/ramicorrea21/internationalizer-rest'>Backend Repository</a>
 
