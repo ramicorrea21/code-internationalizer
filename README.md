@@ -10,6 +10,7 @@ Code internationalizer is a modern web application designed for developers who n
 - <a href='https://reactjs.org/' target='_blank'>React</a> for building the user interface with stateful components.
 - <a href='https://tailwindcss.com/' target='_blank'>TailwindCSS</a> for utility-first styling and responsive design.
 - <a href='https://ui.shadcn.com/' target='_blank'>Shadcn UI</a> for modern, accessible UI components that are easy to customize and integrate.
+  
 -<a href='https://openai.com/blog/openai-api' target='_blank'>OPENAI API</a> for leveraging advanced AI to translate code comments and strings.
 -<a href='https://flask.palletsprojects.com/' target='_blank'>Flask</a> as the lightweight WSGI web application framework to serve the API.
 -<a href='https://www.python.org/' target='_blank'>Python</a> for backend scripting, providing a powerful yet easy-to-use language for web services.
